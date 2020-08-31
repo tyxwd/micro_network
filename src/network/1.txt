@@ -1,0 +1,5 @@
+['Achyranthes aspera' 'Bidens biternata' 'Bidens pilosa'
+ 'Borreria latifolia' 'Borreria stricta' 'Celosia argentea'
+ 'Malvastrum coromandelianum' 'Paspalum conjugatum' 'Paspalum thunbergii'
+ 'Physalis angulata' 'Senna occidentalis' 'Senna tora'
+ 'Setaria palmifolia' 'Setaria viridis' 'Solanum nigrum' 'Urena lobata']
